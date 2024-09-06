@@ -1,4 +1,4 @@
-# Talk to your Doc with TinyLlama and FAISS
+# Talk to your Docs with TinyLlama and FAISS
 ## Overview
 ### This project implements a question-answering system using TinyLlama and FAISS (Facebook AI Similarity Search) to process and query information from PDF documents. The system is split into two main components:
 Embedding Generation and FAISS Database Creation
